@@ -1,12 +1,12 @@
-# CSE 310-04 Applied Programming - Jeremiah Pineda
+# Implementation of Cloud Datbase Funtionality using Google Firestore and Python
+
+### CSE 310-04 Applied Programming - Jeremiah Pineda
 ### W03 Module 1 CloudDB
 ## Scott LeFoll
 ## 01/20/23
 ## Created by Scott LeFoll
 
 ## Module 1 Overview
-
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
 The software uses an authentication token provided by Google Cloud to establish a secure connection 
 to the Firebase and the Firestore Database. This connection is then used to implement CRUD 
@@ -39,10 +39,7 @@ To demonstrate a full range of basic database functionality in using the Cloud F
     delete an index - deletes an index from a document in the collection
     create an index - creates an index in a document in the collection
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, 
-a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Scott LeFoll Module 1 Cloud DB Demo Video](https://youtu.be/9vuWtdHKhhA)
 
 ## Cloud Database
 
