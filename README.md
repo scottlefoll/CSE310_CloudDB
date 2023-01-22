@@ -35,7 +35,7 @@ To demonstrate a full range of basic database functionality in using the Cloud F
     display a record - searches and displays a specific document in the collection
     create a record - creates a new document in the collection
     delete a record - deletes a document from the collection
-    update a field - updates a document in the collection
+    update a record - updates a document in the collection
     delete an index - deletes an index from a document in the collection
     create an index - creates an index in a document in the collection
 
