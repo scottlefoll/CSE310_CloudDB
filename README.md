@@ -39,7 +39,10 @@ To demonstrate a full range of basic database functionality in using the Cloud F
     delete an index - deletes an index from a document in the collection
     create an index - creates an index in a document in the collection
 
-[Scott LeFoll Module 1 Cloud DB Demo Video](https://youtu.be/9vuWtdHKhhA)
+[Cloud Database Programming Demo Video](https://youtu.be/9vuWtdHKhhA)
+
+[Cloud Database Programming Git Hub repo](https://github.com/scottlefoll/CSE310_CloudDB)
+
 
 ## Cloud Database
 
